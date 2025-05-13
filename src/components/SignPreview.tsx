@@ -1,5 +1,5 @@
 // src/components/SignPreview.tsx
-import { useState } from 'react';
+// import { useState } from 'react';
 
 interface SignPreviewProps {
   text: string;
